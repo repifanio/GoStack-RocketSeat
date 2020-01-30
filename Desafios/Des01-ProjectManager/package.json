@@ -1,0 +1,17 @@
+{
+  "name": "GoStackModulo_01_Desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/repifanio/GoStackModulo_01_Desafio.git",
+  "author": "Rafael Camargo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
